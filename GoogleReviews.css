@@ -9,7 +9,7 @@ flex-wrap:wrap;
 
 .review-item {
 font-family: "Open Sans", Arial;
-border:solid 0px rgba(190,190,190,.35);
+border:solid 0px rgba(0,0,0,1);
 margin:0 auto;
 padding:1em;
 flex: 1 1 20%;
@@ -23,7 +23,7 @@ flex: 1 1 20%;
   .review-item { flex: 1 1 90%; }
 }
 
-.review-meta, .review-stars {text-align:center; font-size:115%;}
+.review-meta, .review-stars {text-align:center; font-size:150%;}
 .review-author { text-transform: capitalize; font-weight:bold; }
 .review-date {opacity:.6; display:block;}
 .review-text {  line-height:1.55; text-align:left; max-width:32em; margin:auto;}
