@@ -8,6 +8,7 @@ flex-wrap:wrap;
 }
 
 .review-item {
+border:none 1px rgba(190,190,190,.35);
 font-family: "Open Sans", Arial;
 margin:0 auto;
 padding:1em;
